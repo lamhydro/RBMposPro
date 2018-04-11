@@ -1,5 +1,5 @@
-#RBMposPro
-RBMposPro is a C++ software to extract time series at individual cells, time series of grid domain, time series of individual reaches and to estimate multi-annual averages and monthly averages from RBM () *.Temp and and *.Spat output files.  The model extract information for each of the variables recorded in *.Temp file. RBMposPro output files can be easily plotted for posterior analysis.
+# RBMposPro
+RBMposPro is a C++ software to extract time series at individual cells, time series of grid domain, time series of individual reaches and to estimate multi-annual averages and monthly averages from [RBM] (http://www.hydro.washington.edu/Lettenmaier/Models/RBM/) .Temp and and .Spat output files.  The model extract information for each of the variables recorded in .Temp file. RBMposPro output files can be easily plotted for posterior analysis.
 
 Project structure:
 - /lib: Contains RBMtools.hpp and RBMtools.cpp.
