@@ -31,11 +31,15 @@ RBM read the file RBMposPro.in, which contain:
 - Line 13: Comment
 - Line 14: Extract time series of reaches? if =1 extract them if not it does not.
 - Line 15: Comment
-- Line 16: Starting date (YYYY MM DD) to begin the extraction.
+- Line 16: Estimate month averages? if = 1 extract them if not it does not.
 - Line 17: Comment
-- Line 18: End date (YYYY MM DD) to terminate the extraction.
+- Line 18: Estimate multi-annual averages? if = 1 extract them if not it does not.
 - Line 19: Comment
-- Line 20: Number of grid cells to be extracted
+- Line 20: Starting date (YYYY MM DD) to begin the extraction.
+- Line 21: Comment
+- Line 22: End date (YYYY MM DD) to terminate the extraction.
+- Line 23: Comment
+- Line 24: Number of grid cells to be extracted
 - Line   : Latitude longitude
 - Line   : .
 - Line   : .
