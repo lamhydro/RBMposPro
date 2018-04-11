@@ -1,0 +1,33 @@
+// RBM study case directory
+/home/alejandro/Documents/VIC_RBM2.2/Test_Case/
+// Study case name
+Salmon_0.5
+// Output directory
+/home/alejandro/Documents/VIC_RBM2.2/Test_Case/average/
+// Variable to record [T_0, T_head, dbt, Q_in]
+T_0
+// Extract time series?
+1
+// Extract field series?
+0
+// Extract time series of reaches?
+0
+// Estimate monthly averages
+0
+// Estimate multi-annual averages
+0
+// Start date
+2000   2   2
+// End date
+2001  01      3
+// Number of points
+3
+// latitude longitude
+44.75 -116.75
+45.25 -116.75
+45.75 -116.75
+// Number of reaches
+2
+// Reaches
+1
+4
